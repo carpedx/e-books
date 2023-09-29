@@ -1,3 +1,13 @@
+
+
+> 相关视频：
+>
+> [英语 英式音标 国际音标 元音音标](https://www.bilibili.com/video/BV1u84y1c7JE/?spm_id_from=333.999.0.0&vd_source=0e60bc544bfcf2735d2cdc95fb7b025a)
+>
+> [英语 英式音标 国际音标 辅音音标](https://www.bilibili.com/video/BV1zZ4y1F7F9/?spm_id_from=333.999.0.0&vd_source=0e60bc544bfcf2735d2cdc95fb7b025a)
+
+
+
 **单元音**
 
 | 短元音 | 长元音 | 双元音 |

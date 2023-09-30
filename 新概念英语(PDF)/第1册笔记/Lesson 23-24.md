@@ -176,3 +176,36 @@ Is the stereo on the floor?	音响在地板上吗？
 
 Where is the stereo?	音响在哪里？
 
+------
+
+
+
+give us some food. Please!!!	请给我们一些食物
+
+give them some food. Please!!!	请给他们一些食物
+
+
+
+give us some water. Please!!!	请给我们一些水
+
+give them some water. Please!!!	请给他们一些水
+
+------
+
+
+
+Give me some glasses please, Jane.	请给我一些玻璃杯，简。
+
+Which glasses?	那些
+
+These glasses?	这些吗
+
+No, not those. The ones on the shelf.	不，不是那些。架子上的那些
+
+These?	这些吗？
+
+Yes, please.	是的，多谢了
+
+Here you are.	给你
+
+Thanks.	谢谢

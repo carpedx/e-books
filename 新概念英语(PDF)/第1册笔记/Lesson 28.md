@@ -6,9 +6,7 @@ Are my trousers in the living room?	我的裤子在客厅里吗？
 
 Where are my trousers?	我的裤子在哪？
 
-
-
-> some VS any
+------
 
 
 

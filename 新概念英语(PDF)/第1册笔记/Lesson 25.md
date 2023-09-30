@@ -54,7 +54,7 @@ Where is the new cooker?	新炉具在哪里？
 
 
 
-/ˈmɪdl/	middle	中间的
+/ˈmɪdl/	middle	中间
 
 /ɒv/	/ruːm/	of room	的房间
 
@@ -64,7 +64,15 @@ The table is in the middle of the room.	桌子在房间的中间
 
 Where is the table?	桌子在那里？
 
+------
 
+
+
+There is a table in the middle of the room.	房间中间有张桌子
+
+There isn't a table in the middle of the room.	房间中间没有桌子
+
+Is there a table in the middle of the room?	房间中间有桌子吗
 
 
 
